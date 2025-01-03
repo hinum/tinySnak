@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "TinySnak BP",
+    "description": "the script file for TinySnak",
+    "uuid": "e41cf6b3-4ca7-4072-8433-d99636fc203d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "Script resources",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "4a77ffe3-6e73-4087-ac37-1642b7425078",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0"
+    }
+  ]
+}
