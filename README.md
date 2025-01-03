@@ -2,13 +2,13 @@
     <img
         width="175"
         src="https://raw.githubusercontent.com/hinum/tinySnak/refs/heads/main/tinySnak/pack_icon.png"
-        alt=""
     />
 </p>
 <h1 align="center">TinySnak 🐍</h1>
 
-an attempt at making the most compact snake clone possible.
+an attempt at making the most compact snake clone (in minecraft) possible.
 filled with very fun things like very cursed boolean/binary operations and using recursion to store positions.
+i'm only able to get it to only 378 bytes, you can see the code [here](https://github.com/hinum/tinySnak/blob/main/tinySnak/scripts/main.js).
 
 ## 🕹️ usage
 
