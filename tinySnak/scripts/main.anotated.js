@@ -17,7 +17,7 @@ let {world:W, system:S} = await import("@minecraft/server"), //import stuffs
         // update head position place the apple then update the body
         c(b(h = h + (d & 17) - (d/2 & 17) & 255), "green")^b(a, "red")? s: ++s)
 
-        let p = h // save the position
+        let p = h // save head as this segment position
 
         // recursion
         f(n=>
@@ -28,7 +28,7 @@ let {world:W, system:S} = await import("@minecraft/server"), //import stuffs
 f(_=>_) // start the loop
 
 // note:
-// position is this format: 0bXxxxYyyy
-// aka the first 4 bit represent the X part and the last 4 bit represent the Y part
+// positions are in this format: 0bXxxxYyyy
+// aka the first 4 bits represent the X part and the last 4 bits represent the Y part
 
 // you can basically think of a^b as a!=b
