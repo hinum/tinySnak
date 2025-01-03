@@ -7,14 +7,12 @@
 </p>
 <h1 align="center">TinySnak 🐍</h1>
 
-<h1></h1>
-
 an attempt at making the most compact snake clone possible.
 filled with very fun things like very cursed boolean/binary operations and using recursion to store positions.
 
-## 🕹️ usage"
+## 🕹️ usage
 
-you can find the world demo in the release page.
+you can find the demo world in the release page.
 the script should crash when you first join the world.
 
 **use /reload** to start playing. the command block is for resting the playfield.
@@ -44,7 +42,7 @@ the following are issues that i'm not intetested in sloving,
 
 ## 🛠️ contributing
 
-you can find a *readable* and somewhat explained version of the code [here](https://github.com/hinum/tinySnak/blob/main/tinySnak/scripts/main.anotated.js)
+you can find a *readable* and somewhat explained version of the code [here](https://github.com/hinum/tinySnak/blob/main/tinySnak/scripts/main.anotated.js).
 feel free to submit your own solutions by submiting a pull request.
-your solution needs to be better than mine for it to get merged though.
+your solution needs to be better than the pervious one for it to be merged though.
 
