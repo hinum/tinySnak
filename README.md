@@ -8,7 +8,7 @@
 
 An attempt at making the most compact snake clone (in minecraft) possible.
 Filled with very fun things like very cursed boolean/binary operations and using recursion to store positions.
-I'm only able to get it to 378 bytes, you can see the code [here](https://github.com/hinum/tinySnak/blob/main/tinySnak/scripts/main.js).
+I'm only able to get it to 364 bytes, you can see the code [here](https://github.com/hinum/tinySnak/blob/main/tinySnak/scripts/main.js).
 
 ## 🕹️ usage
 
